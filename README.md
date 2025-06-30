@@ -26,12 +26,6 @@ Uma breve descrição dos conceitos teóricos abordados na disciplina, como:
 
 ---
 
-## 📂 Estrutura do Repositório
 
-- **/Atividades:** Contém todos os trabalhos práticos e projetos desenvolvidos ao longo do semestre.
-- **/Resumos:** Minhas anotações pessoais feitas durante as aulas.
-- **/Materiais-de-Apoio:** Slides, artigos e outros materiais complementares fornecidos pelo professor.
-
----
 
 Este repositório é uma forma de organizar meu aprendizado e criar um portfólio dos meus projetos acadêmicos.
