@@ -13,6 +13,7 @@ Repositório destinado a todos os trabalhos, materiais de estudo e anotações d
 
 ### Ementa do Curso
 Disciplina: AEDs I (Teoria)
+
 Uma breve descrição dos conceitos teóricos abordados na disciplina, como:
 - Fundamentos de constantes e variáveis
 - Teoria de expressões aritméticas, relacionais e lógicas
