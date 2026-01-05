@@ -24,6 +24,9 @@ Uma breve descrição dos conceitos teóricos abordados na disciplina, como:
 - Conceitos de manipulação de arquivos
 - Análise dos algoritmos de ordenação: inserção, seleção e troca (Bubble Sort)
 
+### Link Para Aulas Gravadas
+- https://sites.google.com/view/luizedu/aulas?authuser=0#h.94ga3r5yxsj8
+  
 ---
 
 
